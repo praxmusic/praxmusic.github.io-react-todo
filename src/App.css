@@ -135,7 +135,8 @@ select {
 @media only screen and (max-width: 768px) {
 
   header {
-    font-size: 25px;
+    margin-top: 60px;
+    font-size: 20px;
   }
 
   
@@ -145,9 +146,9 @@ select {
   }
   
   .todo-input {
-    width: 220px;
+    width: 260px;
   }
-
+  
   .todo-button {
     
   }
