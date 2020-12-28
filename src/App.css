@@ -138,7 +138,17 @@ select {
     font-size: 25px;
   }
 
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
   .todo-input {
     width: 220px;
+  }
+
+  .todo-button {
+    
   }
 }
