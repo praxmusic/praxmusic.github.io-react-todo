@@ -132,13 +132,13 @@ select {
   pointer-events: none;
 }
 
-@media only screen and (max-width: 750px) {
-  .app {
-    width: 400px;
+@media only screen and (max-width: 768px) {
+
+  header {
+    font-size: 25px;
   }
-  form {
-    margin-left: 160px;
-    width: 200px;
-    
+
+  .todo-input {
+    width: 220px;
   }
 }
