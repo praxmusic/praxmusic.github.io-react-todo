@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/praxmusic.github.io-react-todo/static/css/main.13cd8191.chunk.css",
-    "main.js": "/praxmusic.github.io-react-todo/static/js/main.c04c491f.chunk.js",
-    "main.js.map": "/praxmusic.github.io-react-todo/static/js/main.c04c491f.chunk.js.map",
+    "main.css": "/praxmusic.github.io-react-todo/static/css/main.48598d44.chunk.css",
+    "main.js": "/praxmusic.github.io-react-todo/static/js/main.6584f5f1.chunk.js",
+    "main.js.map": "/praxmusic.github.io-react-todo/static/js/main.6584f5f1.chunk.js.map",
     "runtime-main.js": "/praxmusic.github.io-react-todo/static/js/runtime-main.6e96db22.js",
     "runtime-main.js.map": "/praxmusic.github.io-react-todo/static/js/runtime-main.6e96db22.js.map",
     "static/js/2.d7d34d68.chunk.js": "/praxmusic.github.io-react-todo/static/js/2.d7d34d68.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.ea64ec32.chunk.js": "/praxmusic.github.io-react-todo/static/js/3.ea64ec32.chunk.js",
     "static/js/3.ea64ec32.chunk.js.map": "/praxmusic.github.io-react-todo/static/js/3.ea64ec32.chunk.js.map",
     "index.html": "/praxmusic.github.io-react-todo/index.html",
-    "static/css/main.13cd8191.chunk.css.map": "/praxmusic.github.io-react-todo/static/css/main.13cd8191.chunk.css.map",
+    "static/css/main.48598d44.chunk.css.map": "/praxmusic.github.io-react-todo/static/css/main.48598d44.chunk.css.map",
     "static/js/2.d7d34d68.chunk.js.LICENSE.txt": "/praxmusic.github.io-react-todo/static/js/2.d7d34d68.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6e96db22.js",
     "static/js/2.d7d34d68.chunk.js",
-    "static/css/main.13cd8191.chunk.css",
-    "static/js/main.c04c491f.chunk.js"
+    "static/css/main.48598d44.chunk.css",
+    "static/js/main.6584f5f1.chunk.js"
   ]
 }
